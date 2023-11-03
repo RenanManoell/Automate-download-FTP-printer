@@ -8,7 +8,7 @@ Este é um projeto que permite a impressão automática de notas fiscais a parti
 ## Instalação
 1. Clone este repositório em sua máquina local.
 
-```shell
+'shell
 git clone https://github.com/RenanManoell/Automate-download-FTP-printer/
 Configure as impressoras disponíveis em sua máquina usando o código.
 Edite o arquivo config.txt com as configurações do servidor FTP, especificando a pasta raiz e outras informações necessárias.
