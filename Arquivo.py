@@ -10,9 +10,9 @@ import datetime
 
 
 # Configurações do servidor FTP
-ftp_server = '172.16.0.13'
-ftp_user = 'znfe_print_danfe.prd'
-ftp_password = 'danfe@2014'
+ftp_server = 'IP'
+ftp_user = 'user'
+ftp_password = 'senha'
 
 # Ler as configurações do arquivo config.txt
 config = {}
